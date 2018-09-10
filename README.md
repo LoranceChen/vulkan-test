@@ -1,2 +1,2 @@
 # README
-learning Vulkan from [tutorials](https://github.com/LoranceChen/vulkan-test.git)
+learning Vulkan from [this tutorial](https://vulkan-tutorial.com/)
